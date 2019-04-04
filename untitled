@@ -1,0 +1,10 @@
+threshold_buy_bear = 2.0
+threshold_buy_bull = 0.5
+threshold_sell_bear = -0.5
+threshold_sell_bull = -0.5
+NN_SMMA_Length = 4
+maFast = 20
+maSlow = 720
+decay = 0.5
+price_buffer_len = 120
+stoploss_threshold = 5
